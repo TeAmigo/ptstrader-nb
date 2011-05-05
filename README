@@ -1,0 +1,3 @@
+ptstrader
+App for sending trades (currently only bracket trades)
+to IB TWS. Responses are on stdout.
